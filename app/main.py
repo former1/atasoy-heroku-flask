@@ -4,4 +4,4 @@ app= Flask(__name__)
 
 @app.route('/')
 def index():
-  return "<h1>Deneme heroku...</h1>"
+  return "<h1>Deneme heroku 2...</h1>"
